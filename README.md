@@ -1,3 +1,4 @@
 
 
-api: alpaca & finnhub
+api: finnhub
+
